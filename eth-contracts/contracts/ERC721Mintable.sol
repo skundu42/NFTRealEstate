@@ -1,13 +1,13 @@
-pragma solidity >= 0.6.0;
+pragma solidity >= 0.6.1;
 
 // import 'openzeppelin-solidity/contracts/utils/Address.sol';
 // import 'openzeppelin-solidity/contracts/drafts/Counters.sol';
 // import 'openzeppelin-solidity/contracts/math/SafeMath.sol';
 // import 'openzeppelin-solidity/contracts/token/ERC721/IERC721Receiver.sol';
 import "openzeppelin-solidity/contracts/token/ERC721/ERC721.sol";
-import "openzeppelin-solidity/contracts/access/Ownable.sol";
-import "openzeppelin-solidity/contracts/utils/Pausable.sol";
-import "openzeppelin-solidity/contracts/utils/Strings.sol";
+import "openzeppelin-solidity/contracts/ownership/Ownable.sol";
+import "openzeppelin-solidity/contracts/lifecycle/Pausable.sol";
+import "openzeppelin-solidity/contracts/drafts/Strings.sol";
 
 //import "./Oraclize.sol";
 

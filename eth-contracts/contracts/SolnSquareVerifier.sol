@@ -1,5 +1,5 @@
 //pragma solidity >=0.4.21 <0.6.0;
-pragma solidity >=0.4.21;
+pragma solidity >= 0.6.1;
 
 import "./verifier.sol";
 import "./ERC721Mintable.sol";
